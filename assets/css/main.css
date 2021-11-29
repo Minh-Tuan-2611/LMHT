@@ -36,7 +36,7 @@ html {
 }
 
 .slider {
-    background-image: url('./assets/img/slider1.jpg');
+    background-image: url('https://cdn.vn.garenanow.com/web/lol-product/LOLwebsite/img/clear2.jpg');
     width: 100%;
     min-height: 250px;
     position: relative;
@@ -47,12 +47,7 @@ html {
 }
 
 .slider-sub {
-    background-image: url('./assets/img/slider2.jpg');
-    position: absolute;
-}
-
-.slider-sub {
-    background-image: url('./assets/img/slider2.jpg');
+    background-image: url('https://cdn.vn.garenanow.com/web/lol-product/LOLwebsite/img/defaultbanner.jpg');
     position: absolute;
     top: 45px;
     background-repeat: no-repeat;
